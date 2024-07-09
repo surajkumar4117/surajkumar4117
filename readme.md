@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/surajkumar4117/surajkumar4117/assets/175159081/ec04313f-f071-4a9d-9df6-b9fd229222ac
+<img align="right" alt="coding" width="400" src="![image](https://github.com/surajkumar4117/surajkumar4117/assets/175159081/8d7b5b47-0765-4996-bb7e-d6e2499d33f2)
+
 
 ">
 
