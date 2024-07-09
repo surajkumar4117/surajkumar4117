@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/surajkumar4117/surajkumar4117/assets/175159081/596d4818-f54b-422f-b1c9-20ea33202558">
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **Anime Recommender**
 
